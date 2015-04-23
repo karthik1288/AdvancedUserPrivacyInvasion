@@ -1,0 +1,36 @@
+small washing machine (soybean milk maker)
+one full cycle of one pre-defined mode
+
+
+charging ups
+ups off - on (fully discharged initially)
+
+charging ups- light bulb
+ups off light off -> 
+ups on light off -> 
+ups on light on -> 
+ups on light off ->
+ups on crazy light ->
+ups on light on ->
+ups off ligh on ->
+ups off crazy light ->
+ups off light off
+
+
+charging ups - hair dryer
+u off h off
+u on h off
+u on h high speed
+u on h low speed
+u on h off 
+u on h high speed
+u on h off
+u on h low speed
+u on h off
+u on h crazy
+u off h high speed
+u off h low speed
+u off h off
+u off h crazy
+u off h off
+

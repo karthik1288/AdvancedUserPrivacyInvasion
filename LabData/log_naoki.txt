@@ -1,0 +1,705 @@
+12-1-2009-charging_ups_EVENTS_andrew_ST.csv
+
+parameter for clustering
+10
+
+dumpCluster
+
+Nc = 0
+Sufficient clusters were not found.
+
+Nc = 0
+Sufficient clusters were not found.
+
+
+12-1-2009-charging_ups_EVENTS_david_ST.csv
+
+parameter for clustering
+10
+
+dumpCluster
+
+
+Nc = 0
+Sufficient clusters were not found.
+
+Nc = 0
+Sufficient clusters were not found.
+
+
+12-1-2009-Hairdryer_crazy_EVENTS_andrew_ST.csv
+
+parameter for clustering
+250
+
+dumpCluster
+373,-53,0,1,0
+714,119,7,6,225
+
+Pc[0]: 714/0
+Pc[1]: -714/1
+Pc[2]: 373/2
+Pc[3]: -373/3
+Nc = 4
+Si[0]: 1492/0 @0
+Si[1]: -812/1 @138
+Si[2]: -680/1 @267
+Si[3]: 682/0 @443
+Si[4]: 821/0 @465
+Si[5]: -819/1 @468
+Si[6]: -671/1 @475
+Si[7]: 668/0 @479
+Si[8]: 815/0 @492
+Si[9]: -813/1 @501
+Si[10]: -683/1 @507
+Si[11]: 684/0 @543
+Si[12]: -373/3 @552
+Si[13]: 671/0 @563
+Si[14]: 509/0 @568
+setX() executing...
+tryCount = 500
+X.size() = 3
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 1
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 1
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+1, 0, 0, 714, 225
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+1, 0, 2, 714, 225
+
+
+12-1-2009-Hairdryer_crazy_EVENTS_david_ST.csv
+
+parameter for clustering
+250
+
+dumpCluster
+275,-40,0,1,0
+384,43,6,6,111
+472,-318,1,0,0
+608,72,10,3,131
+1098,-157,0,1,0
+1181,-168,0,1,0
+1414,-201,0,1,0
+
+Pc[0]: 608/0
+Pc[1]: -608/1
+Pc[2]: 384/2
+Pc[3]: -384/3
+Pc[4]: 472/4
+Pc[5]: -472/5
+Pc[6]: 1098/6
+Pc[7]: -1098/7
+Pc[8]: 275/8
+Pc[9]: -275/9
+Pc[10]: 1414/10
+Pc[11]: -1414/11
+Pc[12]: 1181/12
+Pc[13]: -1181/13
+Nc = 14
+Si[0]: 895/0 @0
+Si[1]: 636/2 @1
+Si[2]: -716/1 @141
+Si[3]: -544/3 @268
+Si[4]: 472/4 @446
+Si[5]: 620/0 @459
+Si[6]: -1098/7 @462
+Si[7]: 444/2 @463
+Si[8]: 782/0 @467
+Si[9]: -545/1 @470
+Si[10]: -275/9 @471
+Si[11]: -363/3 @473
+Si[12]: -296/3 @474
+Si[13]: 446/2 @475
+Si[14]: -569/1 @478
+Si[15]: 547/0 @481
+Si[16]: -330/3 @489
+Si[17]: -335/3 @490
+Si[18]: 359/2 @491
+Si[19]: 306/2 @492
+Si[20]: 615/0 @493
+Si[21]: -1414/11 @501
+Si[22]: 260/2 @502
+Si[23]: 423/0 @503
+Si[24]: 613/0 @507
+Si[25]: -321/3 @509
+Si[26]: -1181/13 @510
+Si[27]: 671/0 @545
+Si[28]: 494/0 @564
+Si[29]: 461/0 @570
+setX() executing...
+tryCount = 500
+X.size() = 63
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 3
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 1
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+1, 0, 0, 384, 111
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+1, 0, 2, 384, 111
+
+
+12-1-2009-Hairdryer_nocrazy_EVENTS_andrew_ST.csv
+
+parameter for clustering
+250
+
+dumpCluster
+746,106,0,2,435
+
+Pc[0]: 746/0
+Pc[1]: -746/1
+Nc = 2
+Si[0]: 1492/0 @0
+Si[1]: -812/1 @138
+Si[2]: -680/1 @267
+setX() executing...
+tryCount = 500
+X.size() = 1
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 1
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 1
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+1, 0, 0, 746, 435
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+1, 0, 2, 746, 435
+
+
+12-1-2009-Hairdryer_nocrazy_EVENTS_david_ST.csv
+
+parameter for clustering
+250
+
+dumpCluster
+590,83,1,1,65
+805,114,1,1,126
+
+Pc[0]: 805/0
+Pc[1]: -805/1
+Pc[2]: 590/2
+Pc[3]: -590/3
+Nc = 4
+Si[0]: 895/0 @0
+Si[1]: 636/2 @1
+Si[2]: -716/1 @141
+Si[3]: -544/3 @268
+setX() executing...
+tryCount = 500
+X.size() = 3
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 3
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 1
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+1, 0, 0, 805, 126
+1, 0, 1, 1395, 65
+1, 0, 2, 590, 126
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+1, 0, 4, 805, 126, 1395, 65, 590, 126
+
+
+12-1-2009-Lightbulb_EVENTS_andrew_ST.csv
+
+parameter for clustering
+50
+
+dumpCluster
+51,0,12,12,0
+
+Pc[0]: 51/0
+Pc[1]: -51/1
+Nc = 2
+Si[0]: 52/0 @0
+Si[1]: -52/1 @12
+Si[2]: 51/0 @20
+Si[3]: -51/1 @37
+Si[4]: 52/0 @89
+Si[5]: -52/1 @96
+Si[6]: 52/0 @123
+Si[7]: -52/1 @133
+Si[8]: 52/0 @139
+Si[9]: -52/1 @150
+Si[10]: 52/0 @158
+Si[11]: -52/1 @168
+Si[12]: 52/0 @174
+Si[13]: -52/1 @186
+Si[14]: 52/0 @224
+Si[15]: -52/1 @233
+Si[16]: 52/0 @275
+Si[17]: -52/1 @285
+Si[18]: 52/0 @293
+Si[19]: -52/1 @302
+Si[20]: 52/0 @311
+Si[21]: -52/1 @318
+Si[22]: 52/0 @371
+Si[23]: -52/1 @380
+setX() executing...
+tryCount = 500
+X.size() = 1
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 1
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 1
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+1, 0, 0, 51, 0
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+1, 0, 2, 51, 0
+
+
+12-1-2009-Lightbulb_EVENTS_david_ST.csv
+
+parameter for clustering
+50
+
+dumpCluster
+54,9,10,4,9
+
+Pc[0]: 54/0
+Pc[1]: -54/1
+Nc = 2
+Si[0]: 52/0 @0
+Si[1]: 51/0 @20
+Si[2]: 56/0 @102
+Si[3]: -56/1 @113
+Si[4]: 57/0 @139
+Si[5]: 51/0 @224
+Si[6]: -53/1 @254
+Si[7]: -57/1 @268
+Si[8]: 55/0 @293
+Si[9]: 56/0 @311
+Si[10]: 77/0 @322
+Si[11]: 84/0 @340
+Si[12]: -52/1 @356
+Si[13]: 53/0 @371
+setX() executing...
+tryCount = 500
+X.size() = 1
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 1
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 1
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+1, 0, 0, 54, 9
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+1, 0, 2, 54, 9
+
+
+12-1-2009-SmallWashingMachine_EVENTS_andrew_ST.csv
+
+parameter for clustering
+250
+
+dumpCluster
+480,118,19,19,0
+830,119,4,4,107
+
+Pc[0]: 830/0
+Pc[1]: -830/1
+Pc[2]: 480/2
+Pc[3]: -480/3
+Nc = 4
+Si[0]: 910/0 @0
+Si[1]: -663/1 @550
+Si[2]: 902/0 @557
+Si[3]: -913/1 @630
+Si[4]: 746/0 @673
+Si[5]: -706/1 @687
+Si[6]: 903/0 @771
+Si[7]: -914/1 @825
+Si[8]: 481/2 @836
+Si[9]: -480/3 @844
+Si[10]: 480/2 @859
+Si[11]: -481/3 @866
+Si[12]: 482/2 @887
+Si[13]: -482/3 @893
+Si[14]: 481/2 @916
+Si[15]: -481/3 @924
+Si[16]: 481/2 @951
+Si[17]: -481/3 @959
+Si[18]: 482/2 @981
+Si[19]: -481/3 @988
+Si[20]: 480/2 @1009
+Si[21]: -480/3 @1016
+Si[22]: 480/2 @1036
+Si[23]: -480/3 @1043
+Si[24]: 480/2 @1064
+Si[25]: -481/3 @1071
+Si[26]: 481/2 @1094
+Si[27]: -481/3 @1100
+Si[28]: 481/2 @1128
+Si[29]: -481/3 @1137
+Si[30]: 481/2 @1154
+Si[31]: -481/3 @1161
+Si[32]: 481/2 @1183
+Si[33]: -481/3 @1190
+Si[34]: 481/2 @1209
+Si[35]: -481/3 @1217
+Si[36]: 482/2 @1240
+Si[37]: -481/3 @1244
+Si[38]: 481/2 @1256
+Si[39]: -481/3 @1260
+Si[40]: 483/2 @1272
+Si[41]: -483/3 @1276
+Si[42]: 481/2 @1288
+Si[43]: -482/3 @1291
+Si[44]: 482/2 @1304
+Si[45]: -482/3 @1309
+setX() executing...
+tryCount = 500
+X.size() = 3
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 2
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 2
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+2, 0, 0, 830, 107
+2, 1, 0, 480, 0
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+2, 0, 2, 830, 107
+2, 1, 2, 480, 0
+
+
+12-1-2009-SmallWashingMachine_EVENTS_david_ST.csv
+
+parameter for clustering
+250
+
+dumpCluster
+354,41,18,17,87
+693,104,5,4,125
+
+Pc[0]: 693/0
+Pc[1]: -693/1
+Pc[2]: 354/2
+Pc[3]: -354/3
+Nc = 4
+Si[0]: 866/0 @0
+Si[1]: -691/3 @550
+Si[2]: 532/2 @557
+Si[3]: 371/2 @558
+Si[4]: -634/1 @617
+Si[5]: 780/0 @618
+Si[6]: -822/1 @630
+Si[7]: 701/0 @674
+Si[8]: -591/1 @682
+Si[9]: 772/0 @771
+Si[10]: -304/3 @825
+Si[11]: -608/1 @826
+Si[12]: 436/2 @836
+Si[13]: -271/3 @843
+Si[14]: 406/2 @859
+Si[15]: 460/2 @887
+Si[16]: -254/3 @892
+Si[17]: 314/2 @917
+Si[18]: -337/3 @923
+Si[19]: 298/2 @952
+Si[20]: -355/3 @958
+Si[21]: 482/0 @982
+Si[22]: -419/3 @1015
+Si[23]: 302/2 @1037
+Si[24]: -367/3 @1042
+Si[25]: 388/2 @1064
+Si[26]: -335/3 @1070
+Si[27]: 377/2 @1094
+Si[28]: -387/3 @1099
+Si[29]: 398/2 @1128
+Si[30]: -435/3 @1136
+Si[31]: 266/2 @1154
+Si[32]: -427/3 @1160
+Si[33]: 396/2 @1183
+Si[34]: -429/3 @1189
+Si[35]: -337/3 @1216
+Si[36]: 290/2 @1241
+Si[37]: -312/3 @1243
+Si[38]: 317/2 @1256
+Si[39]: 312/2 @1272
+Si[40]: 308/2 @1289
+Si[41]: -263/3 @1291
+Si[42]: 305/2 @1304
+Si[43]: -258/3 @1308
+setX() executing...
+tryCount = 500
+X.size() = 3
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 3
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 2
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+2, 0, 0, 354, 87
+2, 1, 0, 693, 125
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+2, 0, 2, 354, 87
+2, 1, 2, 693, 125
+
+
+12-1-2009-ups_lightbulb_EVENTS_andrew_ST.csv
+
+parameter for clustering
+40
+
+dumpCluster
+45,4,2,2,1
+
+Pc[0]: 45/0
+Pc[1]: -45/1
+Nc = 2
+Si[0]: 45/0 @0
+Si[1]: -46/1 @52
+Si[2]: -48/1 @120
+Si[3]: 45/0 @142
+setX() executing...
+tryCount = 500
+X.size() = 1
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 1
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 1
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+1, 0, 0, 45, 1
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+1, 0, 2, 45, 1
+
+
+12-1-2009-ups_lightbulb_EVENTS_david_ST.csv
+
+parameter for clustering
+25
+
+dumpCluster
+30,3,4,2,5
+53,40,0,1,0
+
+Pc[0]: 30/0
+Pc[1]: -30/1
+Pc[2]: 53/2
+Pc[3]: -53/3
+Nc = 4
+Si[0]: -29/1 @0
+Si[1]: 40/0 @50
+Si[2]: 30/0 @52
+Si[3]: 28/0 @74
+Si[4]: -26/1 @85
+Si[5]: 32/0 @90
+Si[6]: -53/3 @272
+setX() executing...
+tryCount = 500
+X.size() = 3
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 1
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 1
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+1, 0, 0, 30, 5
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+1, 0, 2, 30, 5
+
+
+12-1-2009-ups-hairdryer_EVENTS_andrew_ST.csv
+
+parameter for clustering
+250
+
+dumpCluster
+333,128,1,1,39
+629,98,6,6,101
+1233,-176,0,1,0
+1403,187,5,3,115
+
+Pc[0]: 1403/0
+Pc[1]: -1403/1
+Pc[2]: 1233/2
+Pc[3]: -1233/3
+Pc[4]: 629/4
+Pc[5]: -629/5
+Pc[6]: 333/6
+Pc[7]: -333/7
+Nc = 8
+Si[0]: 1491/0 @0
+Si[1]: -1233/3 @17
+Si[2]: 449/4 @30
+Si[3]: -663/5 @69
+Si[4]: 1487/0 @96
+Si[5]: -1487/1 @120
+Si[6]: 666/4 @135
+Si[7]: -622/5 @146
+Si[8]: 678/4 @186
+Si[9]: 305/6 @204
+Si[10]: -667/5 @208
+Si[11]: 671/4 @215
+Si[12]: 507/4 @220
+Si[13]: -1266/1 @223
+Si[14]: 492/4 @249
+Si[15]: -673/5 @255
+Si[16]: 1495/0 @276
+Si[17]: -815/5 @286
+Si[18]: -679/5 @335
+Si[19]: 1483/0 @346
+Si[20]: -1266/1 @356
+Si[21]: 1267/0 @363
+Si[22]: -361/7 @370
+setX() executing...
+tryCount = 500
+X.size() = 14
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 7
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 2
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+2, 0, 0, 629, 101
+2, 1, 0, 333, 39
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+2, 0, 2, 629, 101
+2, 1, 2, 333, 39
+
+
+12-1-2009-ups-hairdryer_EVENTS_david_ST.csv
+
+parameter for clustering
+250
+
+dumpCluster
+271,38,3,2,13
+494,55,17,19,120
+1008,137,3,3,120
+1448,201,1,1,60
+
+Pc[0]: 494/0
+Pc[1]: -494/1
+Pc[2]: 1008/2
+Pc[3]: -1008/3
+Pc[4]: 1448/4
+Pc[5]: -1448/5
+Pc[6]: 271/6
+Pc[7]: -271/7
+Nc = 8
+Si[0]: 523/0 @0
+Si[1]: 470/0 @2
+Si[2]: 533/0 @3
+Si[3]: -643/1 @21
+Si[4]: -594/1 @22
+Si[5]: 1076/2 @30
+Si[6]: -674/1 @34
+Si[7]: -601/1 @74
+Si[8]: 1406/4 @99
+Si[9]: -1491/5 @125
+Si[10]: 536/0 @139
+Si[11]: -622/1 @151
+Si[12]: 499/0 @190
+Si[13]: 588/0 @194
+Si[14]: -338/1 @195
+Si[15]: -496/1 @196
+Si[16]: 552/0 @202
+Si[17]: 277/6 @203
+Si[18]: -623/1 @204
+Si[19]: -368/1 @205
+Si[20]: 707/0 @206
+Si[21]: 281/6 @207
+Si[22]: -501/1 @208
+Si[23]: -540/1 @212
+Si[24]: 443/0 @219
+Si[25]: 475/0 @224
+Si[26]: -267/7 @227
+Si[27]: -1001/3 @228
+Si[28]: 283/6 @252
+Si[29]: -328/1 @258
+Si[30]: -335/1 @259
+Si[31]: 581/0 @278
+Si[32]: 658/0 @279
+Si[33]: -251/7 @290
+Si[34]: -559/1 @291
+Si[35]: -484/1 @338
+Si[36]: 431/0 @342
+Si[37]: -419/1 @343
+Si[38]: 1002/2 @346
+Si[39]: -332/1 @355
+Si[40]: -432/1 @358
+Si[41]: 730/0 @359
+Si[42]: -1192/3 @361
+Si[43]: 830/2 @363
+Si[44]: 347/0 @367
+Si[45]: -954/3 @370
+Si[46]: 269/0 @372
+Si[47]: 556/0 @373
+Si[48]: -319/1 @374
+setX() executing...
+tryCount = 500
+X.size() = 14
+setX() done
+initializeFiniteStateMachines() executing...
+step = 0
+X.size() = 13
+initializeFiniteStateMachines() done
+solveOverlaps() executing...
+X.size() = 4
+solveOverlaps() done
+Total, ApplianceID, StateID, Power, StandardDeviation
+4, 0, 0, 494, 120
+4, 1, 0, 271, 13
+4, 2, 0, 1448, 60
+4, 3, 0, 1008, 120
+
+Total, ApplianceID, # of States, State 1 Power, State 1 STD, ..., State (n-1) Power, State (n-1) STD
+4, 0, 2, 1448, 60
+4, 1, 2, 271, 13
+4, 2, 2, 494, 120
+4, 3, 2, 1008, 120
+
+
