@@ -1,0 +1,14 @@
+Kitchen
+Oven - 2300 W - 0.03834
+Dish washer - 1800 W - 0.0300
+Microwave - 1500 W - 0.0250
+
+Laundry
+Washing machine - 500 W - 0.0071
+Clothes dryer - 3400 W - 0.0567
+Refrigirator - 188 W - 0.0031
+Light bulb - 60 W - 0.0010
+
+Living 
+Room air conditioner - 1000 W - 0.0167
+Electric water heater - 479 W - 0.0079
